@@ -56,7 +56,7 @@ For more background on smart contracts, refer to the
 [smart contracts](https://docs.web3j.io/smart_contracts.html) section of the docs.
 
 
-### Infura
+### Infura！！
 
 If you don't want to sign up to Infura, and would like to run a node yourself, there are 
 instructions in the [getting started](https://docs.web3j.io/getting_started.html#start-a-client) 
